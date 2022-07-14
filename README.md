@@ -1,4 +1,4 @@
-# Automa-o-Amazon
+# Automacao-Amazon
 
 Automação utilizando cucumber e java. Também foi utilizado o PageObejects para uma melhor organização do código.
 
