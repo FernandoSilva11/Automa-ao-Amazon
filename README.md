@@ -4,7 +4,6 @@ Automação utilizando cucumber e java. Também foi utilizado o PageObejects par
 
 O intuito  é realizar uma pesquisa simples e conferir alguns dados como nome e valor do produto. Após a realização de cada teste é gerado um print de evidênciando que o teste funcionou.
 
-<img src="https://github.com/FernandoSilva11/Automacao-Amazon/blob/master/demonstracao.gif" width="1500" height="500" />
-
 ## Exemplo do script:  
-<img src="https://github.com/FernandoSilva11/Automacao-Amazon/blob/master/demonstracao.gif" width="1500" height="500" />
+
+![aa](demonstracao.gif)
