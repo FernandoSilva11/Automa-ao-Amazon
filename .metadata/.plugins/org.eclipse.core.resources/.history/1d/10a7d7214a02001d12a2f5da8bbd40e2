@@ -1,0 +1,16 @@
+# language: pt
+Funcionalidade: Comprar produto
+
+  # Fluxo de compras no site Amazon
+  # Envolve as páginas Home, Resultado da Consulta e Detalhes Paginas
+  Esquema do Cenario: Compra a partir de uma busca <pesquisar>
+    Dado que acesso o site Amazon.com
+    Quando busco por <pesquisar> e presiono Enter
+    Entao exibe uma lista de produtos relacionados com <pesquisar>
+    Quando escolho <nomeProduto>
+    Entao exibe nome <nomeProduto> e o preco de R$<preco>
+
+    Exemplos: Produtos
+      | pesquisar         | nomeProduto                                                                       | preco      |
+      | "Ar-Condicionado Split Hw Elgin" | "Ar-Condicionado Split Hw Elgin Eco Power 9.000 Btus/h Frio 220v HWFI09B2IA"      | "1.499,00" |
+ 

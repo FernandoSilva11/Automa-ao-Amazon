@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="cucumber.api.java.Before"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="cucumber.api.java.pt.Entao"/>
+    <fullyQualifiedTypeName name="pages.Home"/>
+    <fullyQualifiedTypeName name="pages.Lista"/>
+    <fullyQualifiedTypeName name="pages.Produto"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+    <fullyQualifiedTypeName name="cucumber.runtime.model.CucumberExamples"/>
+</qualifiedTypeNameHistroy>
