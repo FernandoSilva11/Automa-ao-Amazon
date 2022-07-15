@@ -6,3 +6,5 @@ O intuito  é realizar uma pesquisa simples e conferir alguns dados como nome e 
 
 <img src="https://github.com/FernandoSilva11/Automacao-Amazon/blob/master/demonstracao.gif" width="1500" height="500" />
 
+## Exemplo do script:  
+<img src="https://github.com/FernandoSilva11/Automacao-Amazon/blob/master/demonstracao.gif" width="1500" height="500" />
