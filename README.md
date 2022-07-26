@@ -7,4 +7,3 @@ O intuito é realizar uma pesquisa e conferir alguns dados como nome e valor do 
 ## Exemplo do script:  
 
 ![aa](demonstracao.gif)
-![ezgif-4-a7aaab4f38](https://user-images.githubusercontent.com/50935903/181092766-6af680e3-4f1f-4185-abd1-1117bc2022d5.gif)
